@@ -1,0 +1,6 @@
+project.lock.json
+.DS_Store
+nupkg/
+
+data/
+__pycache__/
